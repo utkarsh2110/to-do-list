@@ -1,4 +1,4 @@
-# React 
+# To Do List using React - First React Project
 
 To use this code. Clone the repo and run the following commands
 
