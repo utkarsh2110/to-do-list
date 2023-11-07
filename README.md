@@ -1,7 +1,10 @@
-# To Do List using React - First React Project
+# To Do List using React 
 
-To use this code. Clone the repo and run the following commands
+# This is a basic to do list app, with features - dark and light mode.
 
-0. cd "Folder Name"
-1. git install
-2. npm run dev
+
+# To run this code on your machine. Clone the repo and run the following commands
+
+# Step 1. cd "Folder Name"
+# Step 2. git install
+# Step 3. npm run dev
