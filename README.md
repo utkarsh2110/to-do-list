@@ -1,8 +1,10 @@
-# React + Vite
+# To Do List using React 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ This is a basic to do list app, with features - dark and light mode.
+ To run this code on your machine. Clone the repo and run the following commands
 
-Currently, two official plugins are available:
+Step 1. cd "Folder Name" 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Step 2. git install 
+
+Step 3. npm run dev 
