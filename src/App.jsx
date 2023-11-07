@@ -12,7 +12,6 @@ function App() {
 
   const [taskText, setTaskText] = useState("");
   const [taskArray, setTaskArray] = useState([]);
-
   const [imgSrc, setImgSrc] = useState(moonImg);
   const [bgimgSrc, setbgImgSrc] = useState(bgImage);
   const [taskbgColor, settaskbgColor] = useState("white");
@@ -100,7 +99,7 @@ function App() {
         </div>
         {
           taskArray.map((element, index) => {
-            return  <Tasks text={element} key={index} id={index} onSelect={indexList} currentImg = {imgSrc == sunImg? "true": "false"}/>
+            return  <Tasks style={(imgSrc == sunImg)?{backgroundColour: "#24273d"}: {backgroundColour: "white"}} text={element} key={index} id={index}/>
           })
         }
 
